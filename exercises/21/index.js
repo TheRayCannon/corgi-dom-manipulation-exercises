@@ -1,4 +1,4 @@
-const items = document.querySelectorAll(".dogs")
+const items = document.querySelectorAll("li")
 items.forEach(item => {
-    console.log(item.element)
+    console.log(item.textContent)
 })

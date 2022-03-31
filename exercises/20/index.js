@@ -1,2 +1,2 @@
-const img = document.querySelector("corgi.jpg")
-console.log(img)
+const image = document.querySelector.src = "corgi.jpg"
+console.log(image)

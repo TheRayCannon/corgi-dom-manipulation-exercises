@@ -1,2 +1,2 @@
-let p = docunment.querrySelector("p")
-console.log(p.element)
+let p = document.querySelector("p")
+console.log(p)
