@@ -1,2 +1,2 @@
 const list = document.querySelector("li")
-list.className = "corgi-queen"
+list.classList = "corgi-queen"
